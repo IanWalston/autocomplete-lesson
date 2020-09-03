@@ -1,8 +1,10 @@
 // import dependencies
 const express = require('express');
+const cors = require('cors')
 
 // initialize express
 const app = express();
+app.use(cors())
 
 // define routes
 app.get('/', (req, res) => {
