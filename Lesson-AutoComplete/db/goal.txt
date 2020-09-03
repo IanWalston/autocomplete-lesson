@@ -1,5 +1,0 @@
-Create a user input for selecting a pokemon from the list in the database
-
-The user input must provide autocomplete results as the user types 
-
-The server must send only the autocomplete results 
